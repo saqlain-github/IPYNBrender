@@ -2,4 +2,5 @@ ipywidgets
 notebook
 ensure
 py-youtube
+mkdocs-material
 -e .
