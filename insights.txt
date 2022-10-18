@@ -1,0 +1,4 @@
+black -> corrects formatting
+mypy -> check for errors in syntax or anything
+pytest -> test the code (pytest -v)
+tox -> command - tox -> various python version testing
