@@ -21,7 +21,7 @@ list_of_files = [
     f"src/{project_name}/__init__.py",
     f"tests/__init__.py",
     f"tests/unit/__init__.py",
-    f"tests//integration__init__.py",
+    f"tests/integration/__init__.py",
     "init_setup.sh",
     "requirements.txt",
     "requirements_dev.txt",
